@@ -1,0 +1,12 @@
+.vs/
+Debug/
+ipch/
+Debug/
+*.vcxproj
+*.vcxproj.filters
+stdafx.cpp
+stdafx.h
+targetver.h
+*.sln
+*.VC.db
+*.sdf
